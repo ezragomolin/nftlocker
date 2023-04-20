@@ -1,0 +1,232 @@
+.home{
+  background: url("../IMAGES/background-2.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 765px  ;
+  padding-bottom: 1em;
+  vertical-align: bottom;
+
+}
+
+
+.float-container{
+  position: absolute;
+  padding-top: 800px ;
+  padding-left: 30em;
+  padding-bottom: 0;
+  padding-right: 0;
+
+  left: 1000px;
+  top: 0;
+  
+  background: linear-gradient(270deg, #000000 0%, #000000 100%);
+
+  border-radius: 50px 0px 0px 50px;
+
+
+
+  
+}
+
+.home-img{
+  
+
+
+  position: absolute;
+  padding-top: 10em;
+  padding-left: 11em;
+  padding-right: 6em;
+  padding-bottom: 3em;
+  top: 4em;
+  right:10em;
+  left:7em;
+  background: url("../IMAGES/nft-img.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#lock-purp{
+  
+position: absolute;
+padding-top: 2em;
+padding-left: 1 em;
+left: 2em;
+top: 12em;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 36px;
+letter-spacing: 0.03em;
+
+background: linear-gradient(90deg, #6860F7 0.45%, #9D26EA 13.31%), #FFFFFF;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+
+#rest{
+position: absolute;
+padding-top: 2em;
+padding-left: 1.7em;
+left: 3em;
+top: 12em;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 36px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+
+}
+
+#rest-or{
+position: absolute;
+padding-top: 2em;
+padding-left: 1.5em;
+left: 0.5em;
+top: 16em;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 36px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+
+}
+
+.indicator{
+position: absolute;
+padding-top: 1.4em;
+padding-left: 1.5em;
+left: 5.5em;
+top: 35em;
+border-radius: 50%;
+
+background: #32F712;
+filter: blur(1px);
+}
+
+#num-locked{
+position: absolute;
+padding-top: 1.6em;
+padding-left: 1.5em;
+left: 5.5em;
+top: 25em;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 36px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+
+}
+
+
+
+#secure{
+  position: absolute;
+  padding-left: 94px;
+  top: 90px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+  
+  letter-spacing: 0.03em;
+  
+  color: #FFFFFF;
+  
+}
+
+#nftlocker{
+  position: absolute;
+  width: 451px;
+  padding-left: 94px;
+  top: 80px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 72px;
+  letter-spacing: 0.03em;
+
+  color: #FFFFFF;
+
+}
+
+#m{
+  position: absolute;
+  width: 500px;
+  left: 95px;
+  top: 270px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+
+  color: #FFFFFF;
+}
+
+#nnfftt{
+
+position: absolute;
+width: 512px;
+left: 96px;
+top: 370px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+
+.buttonOne{
+  box-sizing: border-box;
+  position: absolute;
+  width: 283px;
+  height: 74px;
+  left: 94px;
+  top: 520px;
+  border: 3px solid #FFFFFF;
+  border-radius: 39px;
+  background: none;
+  
+
+
+}
+
+.launch{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+}
+
+#test1{
+  margin-left: 40%;
+  display: float;
+}
